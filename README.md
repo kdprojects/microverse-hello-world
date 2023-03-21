@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 `Hello Microverse` is the first project we work on at Microverse 
 
